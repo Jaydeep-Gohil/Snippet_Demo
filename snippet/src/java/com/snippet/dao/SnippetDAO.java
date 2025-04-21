@@ -1,4 +1,4 @@
-package com.snippet.dao; // Fixed package name
+package com.snippet.dao; 
 
 import com.snippet.common.DataBase;
 import com.snippet.models.user; 
